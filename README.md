@@ -10,7 +10,7 @@ I've been coding for 2 years and have experience doing small to medium websites.
 * ✉️  You can contact me at [prachot098@gmail.com](mailto:prachot098@gmail.com)
 * 🧠  I'm learning golang
 * 🤝  I'm open to collaborating on interesting project
-* ⚡  I play Roblox
+* ⚡  I love playing roblox
 
 ### Skills
 
