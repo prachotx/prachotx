@@ -2,15 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================================
 
 Web Developer
--------------
 
-I've been coding for 2 years and have experience doing small to medium websites.
 
-* 🌍  I'm based in Sakon Nakhon, Thailand
-* ✉️  You can contact me at [prachot098@gmail.com](mailto:prachot098@gmail.com)
-* 🧠  I'm learning golang
-* 🤝  I'm open to collaborating on interesting project
-* ⚡  I love playing roblox
 
 ### Skills
 
