@@ -11,7 +11,7 @@ Web Developer
 
 ### Portfolio
 
-- 💼 Website Portfolio: https: https://test.com
+- 💼 Website Portfolio: https://test.com
 - 🛒 Stock Management System: https://test.com
 - 🌆 Property Management System: https://test.com
 - 🌊 Water Quality Control: https://test.com
