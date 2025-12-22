@@ -12,7 +12,7 @@ Web Developer (JavaScript Stack Lover)
 ### Portfolio
 
 - 💼 Website Portfolio: https://test.com
-- 🛒 Stock Management System: https://test.com
+- 🛒 Payment Gateway Integration System: https://test.com
 - 🌆 Property Management System: https://test.com
 - 🌊 Water Quality Control: https://test.com
 
